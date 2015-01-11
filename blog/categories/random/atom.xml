@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[haneul의 생각창고]]></title>
-  <link href="http://haneul.github.io/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Random | haneul의 생각창고]]></title>
+  <link href="http://haneul.github.io/blog/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
   <updated>2015-01-10T23:50:17-08:00</updated>
   <id>http://haneul.github.io/blog/</id>

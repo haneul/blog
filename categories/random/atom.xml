@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Random | haneul의 생각창고]]></title>
-  <link href="http://haneul.github.io/blog/blog/categories/random/atom.xml" rel="self"/>
+  <link href="http://haneul.github.io/blog/categories/random/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
-  <updated>2015-01-13T19:17:20-08:00</updated>
+  <updated>2015-01-14T01:02:34-08:00</updated>
   <id>http://haneul.github.io/blog/</id>
   <author>
     <name><![CDATA[Seungyeop Han]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[글을 써보자]]></title>
-    <link href="http://haneul.github.io/blog/blog/2015/01/10/geuleul-sseoboja/"/>
+    <link href="http://haneul.github.io/blog/2015/01/10/geuleul-sseoboja/"/>
     <updated>2015-01-10T23:42:47-08:00</updated>
-    <id>http://haneul.github.io/blog/blog/2015/01/10/geuleul-sseoboja</id>
+    <id>http://haneul.github.io/blog/2015/01/10/geuleul-sseoboja</id>
     <content type="html"><![CDATA[<p>올해의 목표중에 하나는 글을 많이/자주 써야겠다는 것.
 영어든 우리말이든 자꾸 써버릇 해야 좋은 글을 쓸 수 있는 것 같다.</p>
 

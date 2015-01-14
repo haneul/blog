@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Research | haneul의 생각창고]]></title>
-  <link href="http://haneul.github.io/blog/blog/categories/research/atom.xml" rel="self"/>
+  <link href="http://haneul.github.io/blog/categories/research/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
-  <updated>2015-01-13T19:17:20-08:00</updated>
+  <updated>2015-01-14T01:02:34-08:00</updated>
   <id>http://haneul.github.io/blog/</id>
   <author>
     <name><![CDATA[Seungyeop Han]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Acamedia or Industry?]]></title>
-    <link href="http://haneul.github.io/blog/blog/2015/01/13/acamedia-or-industry/"/>
+    <link href="http://haneul.github.io/blog/2015/01/13/acamedia-or-industry/"/>
     <updated>2015-01-13T18:54:27-08:00</updated>
-    <id>http://haneul.github.io/blog/blog/2015/01/13/acamedia-or-industry</id>
+    <id>http://haneul.github.io/blog/2015/01/13/acamedia-or-industry</id>
     <content type="html"><![CDATA[<p>졸업이 가까워 오면서(아마도 내년 여름 졸업 예정), 흔히 받는 질문 가운데 하나는 &ldquo;졸업하고 뭐할꺼니?&#8221;라는 거다.
 박사과정 학생에게 이 질문은 다른 질문 하나를 포함하고 있다: Academia or Industry?</p>
 

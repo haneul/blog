@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blog | haneul의 생각창고]]></title>
-  <link href="http://haneul.github.io/blog/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://haneul.github.io/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
-  <updated>2015-01-13T19:17:20-08:00</updated>
+  <updated>2015-01-14T01:02:34-08:00</updated>
   <id>http://haneul.github.io/blog/</id>
   <author>
     <name><![CDATA[Seungyeop Han]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[블로그 설정중]]></title>
-    <link href="http://haneul.github.io/blog/blog/2015/01/11/beulrogeu-seoljeongjung/"/>
+    <link href="http://haneul.github.io/blog/2015/01/11/beulrogeu-seoljeongjung/"/>
     <updated>2015-01-11T20:21:22-08:00</updated>
-    <id>http://haneul.github.io/blog/blog/2015/01/11/beulrogeu-seoljeongjung</id>
+    <id>http://haneul.github.io/blog/2015/01/11/beulrogeu-seoljeongjung</id>
     <content type="html"><![CDATA[<p><a href="http://octopress.org/">Octopress</a>는 <a href="https://github.com/jekyll/jekyll">Jekyll</a> 기반의 블로그 관리 툴이다.
 기존에 쓰던 블로그들은 대부분 서버에 DB를 갖고 거기에 포스팅을 저장하는 방식이었는데, Jekyll은 그냥 static page들을 만들어서 그걸 보여주는 방식을 갖고 있다.
 Octopress는 Jekyll을 잘 관리해주고 포스팅들을 쉽게 github등에 호스팅 되어있는 저장소에 올릴 수 있도록 해주는 툴이다.

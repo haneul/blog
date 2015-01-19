@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Blog | haneul의 생각창고]]></title>
-  <link href="http://haneul.github.io/blog/categories/blog/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Music | haneul의 생각창고]]></title>
+  <link href="http://haneul.github.io/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
   <updated>2015-01-19T15:05:13-08:00</updated>
   <id>http://haneul.github.io/blog/</id>
@@ -31,24 +31,6 @@
 </div>
 
 </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[블로그 설정중]]></title>
-    <link href="http://haneul.github.io/blog/2015/01/11/beulrogeu-seoljeongjung/"/>
-    <updated>2015-01-11T20:21:22-08:00</updated>
-    <id>http://haneul.github.io/blog/2015/01/11/beulrogeu-seoljeongjung</id>
-    <content type="html"><![CDATA[<p><a href="http://octopress.org/">Octopress</a>는 <a href="https://github.com/jekyll/jekyll">Jekyll</a> 기반의 블로그 관리 툴이다.
-기존에 쓰던 블로그들은 대부분 서버에 DB를 갖고 거기에 포스팅을 저장하는 방식이었는데, Jekyll은 그냥 static page들을 만들어서 그걸 보여주는 방식을 갖고 있다.
-Octopress는 Jekyll을 잘 관리해주고 포스팅들을 쉽게 github등에 호스팅 되어있는 저장소에 올릴 수 있도록 해주는 툴이다.
-사실 Jekyll을 안써봐서 Octopress를 쓰는게 얼마나 더 편한 지는 모르겠지만, 지금까지 쓰고 있는 결과로는 (개발자라면) 쓰기에 나쁘지 않은 듯.</p>
-
-<p>일단 어제는 기본 설정대로만 만들어서 포스팅을 해본 셈이어서, 몇가지 설정을 추가했다.
-테마를 조금더 minimal한 녀석으로 바꾸고, 몇 개 링크를 추가 (오른쪽 위에 보면 구글+page랑 github account가 추가되었다.)
-나머지 설정은 다음 주에;;</p>
-
-<p>p.s. 근데 Jekyll같이 쓸 수 있는 wiki는 없나요?</p>
 ]]></content>
   </entry>
   

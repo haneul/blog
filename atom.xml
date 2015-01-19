@@ -4,7 +4,7 @@
   <title><![CDATA[haneul의 생각창고]]></title>
   <link href="http://haneul.github.io/blog/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
-  <updated>2015-01-14T01:04:08-08:00</updated>
+  <updated>2015-01-19T15:05:13-08:00</updated>
   <id>http://haneul.github.io/blog/</id>
   <author>
     <name><![CDATA[Seungyeop Han]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Video Embed Testing]]></title>
+    <link href="http://haneul.github.io/blog/2015/01/19/video-embed-testing/"/>
+    <updated>2015-01-19T15:01:25-08:00</updated>
+    <id>http://haneul.github.io/blog/2015/01/19/video-embed-testing</id>
+    <content type="html"><![CDATA[<p>한 때는 모든 오디션 프로그램을 다 챙겨봤었는데, 요새는 KPOPSTAR만 보고 있다.
+비디오 입력 테스트 겸 해서 지난 주의 제일 좋았던 노래.</p>
+
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('hGh2a6QSIhk');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/hGh2a6QSIhk?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/hGh2a6QSIhk/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=hGh2a6QSIhk" id="hGh2a6QSIhk" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">[K-Pop Star Season 4](감성돔)정승환,박윤하 슬픔 속에 그댈 지워야만 해 이현우4라운드 캐스팅 오디션</div>
+</a>
+<div class="video-info" ></div>
+</div>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Acamedia or Industry?]]></title>

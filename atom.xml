@@ -4,7 +4,7 @@
   <title><![CDATA[haneul의 생각창고]]></title>
   <link href="http://haneul.github.io/blog/atom.xml" rel="self"/>
   <link href="http://haneul.github.io/blog/"/>
-  <updated>2015-01-19T15:05:13-08:00</updated>
+  <updated>2015-01-21T01:33:28-08:00</updated>
   <id>http://haneul.github.io/blog/</id>
   <author>
     <name><![CDATA[Seungyeop Han]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Sunset From CSE]]></title>
+    <link href="http://haneul.github.io/blog/2015/01/20/sunset-from-cse/"/>
+    <updated>2015-01-20T17:00:07-08:00</updated>
+    <id>http://haneul.github.io/blog/2015/01/20/sunset-from-cse</id>
+    <content type="html"><![CDATA[<p><img src="http://haneul.github.io/blog/images/PANO_20150120_165227.jpg"></p>
+
+<p>Weather in Seattle this winter has been unusually nice (warm &amp; not rainy much).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Video Embed Testing]]></title>
